@@ -1,14 +1,14 @@
 name: AdminTools
 version: 1.0.0
-author: OlleThunberg
+author: NeeZun
 main: me.ollethunberg.admintools.Main
-description: Usefull tools you might want to use as an admin.
+description: admin commands
 commands:
     tools:
-        description: This is for bringing up the ui
+        description: /tl
         usage: /tools
         aliases: [tl]
     adminbook:
-        description: Get a book for easy to open menu
+        description: /desk
         usage: /adminbook
         aliases: [ab]
