@@ -1,6 +1,6 @@
 name: AdminTools
 version: 1.0.0
-author: OlleThunberg
+author: NeeZun
 main: me.ollethunberg.admintools.Main
 description: Usefull tools you might want to use as an admin.
 commands:
